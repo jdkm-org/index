@@ -3,6 +3,7 @@
   "name": "Local Dev",
   "apps": {
     "oracle": "apps/oracle/index.json"
+    "sap": "apps/sap/index.json"
   },
   "update-time": "2022/12/09 19:12:01"
 }
